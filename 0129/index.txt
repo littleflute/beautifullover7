@@ -1,0 +1,12 @@
+
+Personal Author: Spraul, V. Anton.
+Title All: How software works : the magic behind encryption, CGI, search engines, and other everyday technologies / by V. Anton Spraul.
+Author: Spraul, V. Anton.
+Local Call Number: 005.3
+ISBN: 9781593276669
+Physical Description: xvii, 198 pages : illustrations ; 24 cm
+Contents: Encryption -- Passwords -- Public keys -- Movie graphics -- Video game graphics -- Compressed video -- Fast access -- Concurrency.
+Subject Term:
+Electronic data processing.
+Computer software.
+Computer networks.
