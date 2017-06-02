@@ -1,0 +1,24 @@
+Print It and more...
+Cover image for
+Personal Author:
+Cassell, Laura.
+Title All:
+Python projects / Laura Cassell, Alan Gauld.
+Wrox professional guides.
+Author:
+Cassell, Laura.
+Gauld, Alan.
+Local Call Number:
+005.133 PYTHON
+ISBN:
+9781118908662
+Physical Description:
+xxx, 350 pages : illustrations ; 24 cm.
+Series:
+Wrox professional guides
+Wrox professional guides.
+Subject Term:
+Python (Computer program language)
+OCLC:
+875249273
+Holds: 1
