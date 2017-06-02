@@ -1,0 +1,11 @@
+Personal Author: Saha, Amit,
+Title All: Doing math with Python : use programming to explore algebra, statistics, calculus, and more! / by Amit Saha.
+Author: Saha, Amit,
+Local Call Number: 005.133 PYTHON
+ISBN: 9781593276409
+Physical Description: xvii, 244 pages : illustrations ; 24 cm
+Contents: Numbers -- Visualizing data with graphs -- Describing data with statistics -- Algebra and symbolic math with SymPy -- Sets and probability -- Drawing geometric shapes and fractals -- Working with mathematical functions -- Appendix A: Setup, installation, and resources -- Appendix B: Python functionality -- Appendix C: Solutions.
+Subject Term:
+Mathematics -- Study and teaching -- Data processing.
+Python (Computer program language)
+Computer programming.
