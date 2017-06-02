@@ -1,0 +1,11 @@
+Personal Author: Bentley, Jon Louis.
+Title All: Programming pearls / Jon Bentley.
+Author: Bentley, Jon Louis.
+Local Call Number: 005.101
+ISBN: 9780201657883
+Edition: 2nd ed.
+Publication Information: Boston : Addison-Wesley, c2000.
+Physical Description: 239 p. : ill. ; 24 cm.
+Subject Term:
+Computer programming.
+Microcomputers -- Programming.
