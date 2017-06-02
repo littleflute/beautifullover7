@@ -1,0 +1,12 @@
+
+Personal Author: Venkitachalam, Mahesh.
+Title All: Python playground : geeky projects for the curious programmer / by Mahesh Venkitachalam.
+Author: Venkitachalam, Mahesh.
+Local Call Number: 005.133 PYTHON
+ISBN: 9781593276041
+Physical Description: xxii, 327 pages : illustrations ; 24 cm
+Subject Term:
+Python (Computer program language)
+Electronic apparatus and appliances -- Automatic control.
+Arduino (Programmable controller) -- Programming.
+Raspberry Pi (Computer) -- Programming.
